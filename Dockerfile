@@ -1,2 +1,2 @@
 # Base image
-FROM node
+FROM ubuntu:latest
